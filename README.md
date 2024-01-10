@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshpatil3303&label=Profile%20views&color=0e75b6&style=flat" alt="harshpatil3303" /> </p>
 
-- 🔭 I’m currently working on **World Development Measurement**
+- 🔭 I’m currently working on **AI Variant**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
